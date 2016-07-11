@@ -2,7 +2,7 @@
 date = "2016-07-09T06:15:01+05:30"
 description = "Spicy Mutton Gravy -- Serves 4 people"
 draft = false
-tags = []
+tags = ["lunch", "non-veg"]
 title = "Spicy Mutton Gravy"
 topics = []
 
