@@ -2,8 +2,6 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.15"
+        version: "0.14"
         theme: blackburn
-        config: config.toml
-        dev_flags: -D -F
-        prod_branches: master
+        flags: --buildDrafts=true
